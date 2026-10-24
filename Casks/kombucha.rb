@@ -1,6 +1,6 @@
 cask "kombucha" do
-  version "0.1.0"
-  sha256 "c2dfd640532646bc89db3f58f7c507f6942fd4a618ec2aeaa6a0e8a7234610f9"
+  version "0.2.0"
+  sha256 "5f24e855a0b08b9d9bef0f88b1a760e2056616c3cd00bc49df91875f8bb5314f"
 
   url "https://github.com/askuksov/kombucha/releases/download/v#{version}/Kombucha-#{version}.zip"
   name "Kombucha"
