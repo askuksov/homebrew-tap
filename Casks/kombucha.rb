@@ -5,7 +5,7 @@ cask "kombucha" do
   url "https://github.com/askuksov/kombucha/releases/download/v#{version}/Kombucha-#{version}.zip"
   name "Kombucha"
   desc "Battery charge limiter in the menu bar"
-  homepage "https://github.com/askuksov/kombucha"
+  homepage "https://kombucha.kuksov.dev"
 
   livecheck do
     url :url
